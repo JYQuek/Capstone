@@ -10,7 +10,15 @@ __Objectives of the study:__
   - Identify key areas of concerns from guests' feedback
   - Provide recommendations for Airbnb hosts to maximize earnings
   
-Feel free to drop me a note if you have any questions on my findings!
+__Models used for the study:__
+  - Regression: Lasso, Ridge, RandomForest, XGBoost, Ensemble
+  - Natural Language Processing (NLP): Bag of Words, Sentiment Analysis
+
+<br/>
+
+I have uploaded my workings done on Jupyter Notebook, where you can find my codes and workings. There is also a PDF deck, if you would like to zoom in on the summary of my findings. 
+
+Feel free to drop me a note if you have any questions on my findings or code!
 
 
 ![alt text](https://github.com/JYQuek/Capstone/blob/master/Image.jpg?raw=true)
