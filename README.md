@@ -11,3 +11,6 @@ __Objectives of the study:__
   - Provide recommendations for Airbnb hosts to maximize earnings
   
 Feel free to drop me a note if you have any questions on my findings!
+
+
+![alt text](https://github.com/JYQuek/Capstone/blob/master/Image.jpg?raw=true)
